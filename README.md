@@ -1,1 +1,1 @@
-# simulador-semaforo-
+# Simulador Sistemas Operacionais 
